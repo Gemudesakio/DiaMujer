@@ -1730,7 +1730,7 @@ font-size: 3em;
         transform: translateX(-50%);
     }
     .flowers {
-        transform: scale(0.7); /* Reducir el tamaño de las flores */
+        transform: scale(0.9); /* Reducir el tamaño de las flores */
         margin-bottom: 10%; /* Ajustar el margen inferior */
     }
 
